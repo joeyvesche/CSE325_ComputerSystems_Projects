@@ -1,0 +1,16 @@
+USER: veschejo
+HOST: arctic
+DATE: Mon 12 Sep 2022 01:44:37 PM EDT
+ 
+Time: 4677.3588: lab0: process 20901 starting.
+
+Time: 4677.3588: lab0: command-line parameters are veschejo, trace.txt
+
+Time: 4677.3588: lab0: the user is Joseph Vesche
+
+Time: 4677.3588: lab0: the user id is 33096
+
+Time: 4677.3588: lab0: the command name found in /proc/20901/comm is lab0
+
+Time: 4677.8589: lab0: exiting 
+

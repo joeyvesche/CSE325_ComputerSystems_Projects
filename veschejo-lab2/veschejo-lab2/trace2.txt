@@ -1,0 +1,1 @@
+Time: 8644.5049: lab2: process 2 with PID 8472 starting. 
